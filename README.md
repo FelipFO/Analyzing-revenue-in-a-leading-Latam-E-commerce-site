@@ -1,6 +1,4 @@
-#Get the db archive first: https://drive.google.com/file/d/1t5iaFO5_scKSFVe_Q-zEzL9a4OL59kKI/view?usp=drive_link
-
-#Get the datasets now: https://drive.google.com/drive/folders/16b2YLBvRtfg-EQE1BSD2M8qkocD8BV30?usp=drive_link
+#Get the full resources at: https://drive.google.com/drive/folders/1Oyg4A-ePCv24lbhaJFuCzZsJcucNdeOH?usp=drive_link
 
 # Sprint project 01
 > E-Commerce Data Pipeline
