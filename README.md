@@ -1,3 +1,5 @@
+#Get the db archive first: https://drive.google.com/file/d/1t5iaFO5_scKSFVe_Q-zEzL9a4OL59kKI/view?usp=drive_link
+
 # Sprint project 01
 > E-Commerce Data Pipeline
 
